@@ -31,7 +31,7 @@ _git clone https://github.com/angvazcar/ListOfPets.git_
 * Open the project downloaded in the previous steps with IntelliJ (File--> Open and select the downloaded code)
 * In IntelliJ terminal run:
 _mvn clean install_
-* Open Main.java in IntelliJ
+* Open PetStore.java in IntelliJ
 * Click on the run green button on the left of the code line _public static void main(String[] args)_ (if you do not see it in the top right corner,right click on Main.java and select Run 'Main.main()')
 
 
