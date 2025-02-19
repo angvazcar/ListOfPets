@@ -9,12 +9,9 @@ As there is a dependency with the other sections what we have done is create the
 
 ListOfPetsProject/
 
-│── src/   
-│  │──main  
-│   │── java  
-│     ├── PetStore.java         # Crea un cliente HTTP, envia la solicitud, obtiene la respuesta Json y recorre el json para mostrarlo en formato {id,name}.  
-│── pom.xml                     # Si usas Maven, aquí puedes gestionar dependencias(en ppio las he añadido todas no necesario editar)  
-│──readme.txt  
+*  PetStore.java         # Crea un cliente HTTP, envia la solicitud, obtiene la respuesta Json y recorre el json para mostrarlo en formato {id,name}.  
+* pom.xml                     # Si usas Maven, aquí puedes gestionar dependencias(en ppio las he añadido todas no necesario editar)  
+* readme.txt  # Archivo con instrucciones para ejecución en IntelliJ IDEA
 
 
 ### Download and installation ###
