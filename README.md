@@ -4,7 +4,7 @@ This readme will document whatever steps are necessary to get ListOfPets running
 
 ### What is this repository for ###
 
-This code covers the exercise 3 related to data in APIs. Section 2 related to listing the name and the id of the sold pets. 
+This code covers the exercise 3, section 2 related to data in APIs. Section 2 related to listing the name and the id of the sold pets. 
 As there is a dependency with the other sections what we have done is create the following structure:
 
 ListOfPetsProject/
